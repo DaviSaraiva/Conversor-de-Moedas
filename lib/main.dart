@@ -6,8 +6,7 @@ import 'package:string_validator/string_validator.dart';
 import 'dart:async';
 import 'dart:convert';
 
-const request = "https://api.hgbrasil.com/finance?key=a61efe91";
-
+const request = ://api;
 void main() async {
   runApp(MaterialApp(
     home: Home(),
