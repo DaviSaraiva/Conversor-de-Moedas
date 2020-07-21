@@ -6,7 +6,7 @@ import 'package:string_validator/string_validator.dart';
 import 'dart:async';
 import 'dart:convert';
 
-const request = ://api;
+const request = #adicione aq seu link com a chave da api, lembresse entre aspas duplas;
 void main() async {
   runApp(MaterialApp(
     home: Home(),
